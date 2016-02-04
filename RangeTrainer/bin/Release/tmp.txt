@@ -1,0 +1,1 @@
+<Seats>8 100,0 100,1 100,2 100,3 100,4 40,5 100,6 100,7 100</Seats><BU>5</BU><SB>6</SB><BB>7</BB><Constructer>false</Constructer><Preflop>8 0,0 0,1 0,2 0,3 0</Preflop><Raise>AA-22,AKo-A2o,KQo-KTo,QJo-QTo,JTo,AKs-A2s,KQs-K2s,QJs-Q2s,JTs-J9s,T9s-T8s,98s,87s,76s,65s</Raise><Call></Call>

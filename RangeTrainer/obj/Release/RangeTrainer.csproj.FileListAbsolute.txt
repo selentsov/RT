@@ -1,0 +1,21 @@
+C:\Users\Admin\documents\visual studio 2013\Projects\RangeTrainer\RangeTrainer\bin\Release\RangeTrainer.exe.config
+C:\Users\Admin\documents\visual studio 2013\Projects\RangeTrainer\RangeTrainer\bin\Release\RangeTrainer.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\RangeTrainer\RangeTrainer\bin\Release\RangeTrainer.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\RangeTrainer\RangeTrainer\obj\Release\RangeTrainer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2013\Projects\RangeTrainer\RangeTrainer\obj\Release\RangeTrainer.MainForm.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\RangeTrainer\RangeTrainer\obj\Release\RangeTrainer.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\RangeTrainer\RangeTrainer\obj\Release\RangeTrainer.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2013\Projects\RangeTrainer\RangeTrainer\obj\Release\RangeTrainer.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\RangeTrainer\RangeTrainer\obj\Release\RangeTrainer.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\RangeTrainer _alfa_v1.0\RangeTrainer\bin\Release\RangeTrainer.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\RangeTrainer _alfa_v1.0\RangeTrainer\obj\Release\RangeTrainer.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\RangeTrainer _alfa_v1.0\RangeTrainer\obj\Release\RangeTrainer.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\RangeTrainer _alfa_v1.0\RangeTrainer\obj\Release\RangeTrainer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\RangeTrainer _alfa_v1.0\RangeTrainer\obj\Release\RangeTrainer.MainForm.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\RangeTrainer _alfa_v1.0\RangeTrainer\obj\Release\RangeTrainer.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\RangeTrainer _alfa_v1.0\RangeTrainer\obj\Release\RangeTrainer.StartMenu.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\RangeTrainer _alfa_v1.0\RangeTrainer\obj\Release\RangeTrainer.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\RangeTrainer _alfa_v1.0\RangeTrainer\bin\Release\RangeTrainer.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\RangeTrainer _alfa_v1.0\RangeTrainer\bin\Release\RangeTrainer.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\RangeTrainer\RangeTrainer\obj\Release\RangeTrainer.RangeSettingMenu.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\RangeTrainer\RangeTrainer\obj\Release\RangeTrainer.StartMenu.resources

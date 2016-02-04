@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2013\Projects\RangeTrainer\RangeTrainer\bin\Debug\RangeTrainer.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\RangeTrainer\RangeTrainer\bin\Debug\RangeTrainer.exe
+c:\users\admin\documents\visual studio 2013\Projects\RangeTrainer\RangeTrainer\bin\Debug\RangeTrainer.pdb
+c:\users\admin\documents\visual studio 2013\Projects\RangeTrainer\RangeTrainer\obj\Debug\RangeTrainer.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\RangeTrainer\RangeTrainer\obj\Debug\RangeTrainer.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\RangeTrainer\RangeTrainer\obj\Debug\RangeTrainer.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\RangeTrainer\RangeTrainer\obj\Debug\RangeTrainer.exe
+c:\users\admin\documents\visual studio 2013\Projects\RangeTrainer\RangeTrainer\obj\Debug\RangeTrainer.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\RangeTrainer\RangeTrainer\obj\Debug\RangeTrainer.MainForm.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\RangeTrainer\RangeTrainer\obj\Debug\RangeTrainer.StartMenu.resources
